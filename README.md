@@ -1,5 +1,5 @@
-# custom-sorting-.net-maui-listview
-Custom sorting with .Net Maui ListView
+# Custom sorting with .Net MAUI ListView (SfListView)
+This example describes how to custom sorting with .Net MAUI ListView (SfListView).
 
 ## Sample
 
